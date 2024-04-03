@@ -3,7 +3,7 @@
  Programmer: Moris Gomez
  Date: Tuesday 04/02/2024
  Version Control: 4.0
- About: Week 4, CSCI 2, Example 1.
+ About: Week 8, CSCI 2, Example 1.
  Description:
     Intro to Static Stacks via arrays.
 */#include <iostream>
